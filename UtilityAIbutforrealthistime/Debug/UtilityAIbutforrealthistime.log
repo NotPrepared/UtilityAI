@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Consideration.cpp
+  ConsiderationUtilityLinear.cpp
+  ConsiderationUtilityQuadratic.cpp
+  ConsiderationUtilitySCurve.cpp
+  Decision.cpp
+  Knowledge.cpp
+  KnowledgeFloat.cpp
+  UtilityAIbutforrealthistime.cpp
+  UtiliyReasoner.cpp
+  Code wird generiert...
+  UtilityAIbutforrealthistime.vcxproj -> C:\Users\Lukas\source\repos\UtilityAIbutforrealthistime\Debug\UtilityAIbutforrealthistime.exe
